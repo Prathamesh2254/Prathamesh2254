@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prathamesh Khamkar
+# 👋 Hi, I'm Prathamesh Shinde
 
 <h3 align="center">Python Backend Developer | Django Enthusiast | AI Explorer</h3>
 
